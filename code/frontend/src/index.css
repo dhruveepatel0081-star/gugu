@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter+Tight:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-heading: 'Space Grotesk';
+  --font-body: 'Inter Tight';
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: var(--font-body), sans-serif;
+  background-color: #F4F7FB;
+  color: #0F172A;
+  -webkit-font-smoothing: antialiased;
+  background-image: radial-gradient(#E2E8F0 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+h1, h2, h3, h4, h5, h6, .font-heading {
+  font-family: var(--font-heading), sans-serif;
+}
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #CBD5E1; border-radius: 9999px; }
+::-webkit-scrollbar-thumb:hover { background: #94A3B8; }
+
+@media print {
+  body { background: #fff; }
+  aside, header, .no-print { display: none !important; }
+  .print-area { width: 100% !important; }
+  .print-area > div { page-break-after: always; }
+}

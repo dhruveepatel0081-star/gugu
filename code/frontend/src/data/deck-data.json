@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "title": "Electric Vehicles: e-Business Transformation of the EV Industry",
+    "subtitle": "EBTAP Group Presentation",
+    "session": "Session 9 — 20% Group Component",
+    "heroImage": "https://images.unsplash.com/photo-1593941707874-ef25b8b4a92b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTEwMDV8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMHZlaGljbGUlMjBjaGFyZ2luZyUyMHN0YXRpb258ZW58MXwwfHx8MTc5NDMzOTgwM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "companies": [
+    {
+      "id": "byd",
+      "name": "BYD",
+      "color": "#E11D48",
+      "role": "Vertically integrated volume leader",
+      "tagline": "Blade Battery, scale & integration",
+      "image": "https://images.unsplash.com/photo-1694027651012-cb09072e252e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTEwMDV8MHwxfHNlYXJjaHwxfHxieWQlMjBlbGVjdHJpYyUyMGNhciUyMGZhY3Rvcnl8ZW58MXwwfHx8MTc5NDMzOTgwOXww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "color": "#111827",
+      "role": "Software-defined pioneer",
+      "tagline": "OTA, FSD, Supercharger network",
+      "image": "https://images.unsplash.com/photo-1592318348310-f31b61a931c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTEwMDV8MHwxfHNlYXJjaHwxfHxldiUyMGJhdHRlcnklMjBwYWNrJTIwdGVjaG5vbG9neXxlbnwxfDB8fHwxNzk0MzM5ODA4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes EQS",
+      "color": "#0E7490",
+      "role": "Luxury digital cockpit",
+      "tagline": "MBUX Hyperscreen flagship",
+      "image": "https://images.unsplash.com/photo-1568559598349-dbf322d50a48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTEwMDV8MHwxfHNlYXJjaHwxfHxtZXJjZWRlcyUyMGVxcyUyMGx1eHVyeSUyMGludGVyaW9yfGVufDF8MHx8fDE3OTQzMzk4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "id": "hmgics",
+      "name": "HMGICS Hyundai",
+      "color": "#2563EB",
+      "role": "Smart-factory, human-centric hub",
+      "tagline": "Robotics, AI & IoT manufacturing",
+      "image": "https://images.unsplash.com/photo-1700726783633-23c0c6383b00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NTEwMDV8MHwxfHNlYXJjaHwxfHxoeXVuZGFpJTIwc21hcnQlMjBmYWN0b3J5JTIwcm9ib3RzfGVufDF8MHx8fDE3OTQzMzk4MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "slides": [
+    { "id": 1, "title": "Title & Agenda", "q": null, "points": null },
+    { "id": 2, "title": "Industry Snapshot & Chosen Vertical", "q": null, "points": null },
+    { "id": 3, "title": "External Analysis: Macro-environment Impact of ICT", "q": "Q1", "points": 5 },
+    { "id": 4, "title": "External Analysis: Industry Structure Impact", "q": "Q1", "points": 5 },
+    { "id": 5, "title": "Value Mapping: Industry Value Chain", "q": "Q2", "points": 5 },
+    { "id": 6, "title": "Value Mapping: Value Curve & Value Network", "q": "Q2", "points": 5 },
+    { "id": 7, "title": "e-Business Model Transformation: 5 Changes", "q": "Q3", "points": 5 },
+    { "id": 8, "title": "Readiness: Maturity Matrix", "q": "Q4", "points": 5 },
+    { "id": 9, "title": "Readiness: Leaders & Disrupted", "q": "Q4", "points": 5 },
+    { "id": 10, "title": "Conclusion, Scorecard & Team", "q": null, "points": null }
+  ],
+  "stats": [
+    { "label": "Global EV sales 2024", "value": 17, "suffix": "M", "note": "~20% of new car sales" },
+    { "label": "BYD vehicles 2024", "value": 4.27, "suffix": "M", "note": "NEV incl. PHEV" },
+    { "label": "Tesla deliveries 2024", "value": 1.79, "suffix": "M", "note": "Pure BEV" },
+    { "label": "HMGICS capacity", "value": 30000, "suffix": "/yr", "note": "Smart-factory units" }
+  ],
+  "q1Macro": [
+    {
+      "id": "m1",
+      "title": "E-commerce & digital direct sales",
+      "macro": "Technological & Economic",
+      "what": "ICT enables online ordering and transparent pricing, removing the dealership layer.",
+      "why": "Significant because it changes customer-relationship ownership and sales-channel economics (Tesla, BYD online ordering)."
+    },
+    {
+      "id": "m2",
+      "title": "Connected, software-defined vehicles with OTA",
+      "macro": "Technological",
+      "what": "Cars become updatable platforms with over-the-air feature delivery.",
+      "why": "Significant because revenue and value continue after sale, and quality & features improve without recalls."
+    },
+    {
+      "id": "m3",
+      "title": "Big data, AI & cloud",
+      "macro": "Technological",
+      "what": "Fleet data feeds autonomy, battery optimization and predictive maintenance.",
+      "why": "Significant because data becomes a competitive moat and a new service-revenue stream."
+    }
+  ],
+  "q1Structure": [
+    {
+      "id": "s4",
+      "title": "Digital charging & energy platforms, IoT & smart grid",
+      "macro": "New entrants & complements",
+      "what": "Charging-network apps, plug-and-charge and V2G integrate utilities and mobility.",
+      "why": "Significant because it creates new stakeholders and ecosystem power (Tesla Supercharger, BYD charging, Hyundai Ioniq charging partners)."
+    },
+    {
+      "id": "s5",
+      "title": "Smart manufacturing & digital supply chain",
+      "macro": "Supplier power & barriers to entry",
+      "what": "Digital twins, robotics, IoT and AI (HMGICS) plus integrated battery supply (BYD Blade Battery).",
+      "why": "Significant because it lowers entry barriers for tech-native players and shifts bargaining power toward integrated players."
+    }
+  ],
+  "fiveForces": [
+    { "force": "New Entrants", "ice": 40, "ev": 78, "note": "Tech-native players enter via software & smart mfg" },
+    { "force": "Buyer Power", "ice": 55, "ev": 80, "note": "Transparent online pricing empowers buyers" },
+    { "force": "Supplier Power", "ice": 70, "ev": 45, "note": "Vertical battery integration lowers supplier leverage" },
+    { "force": "Substitutes", "ice": 35, "ev": 60, "note": "MaaS, ride-hail & subscriptions as alternatives" },
+    { "force": "Rivalry", "ice": 60, "ev": 88, "note": "Software & ecosystem race intensifies rivalry" }
+  ],
+  "valueChain": [
+    { "step": "Raw materials & battery minerals", "overlay": "BYD mines & refines LFP" },
+    { "step": "Battery & cell manufacturing", "overlay": "BYD Blade; Tesla 4680" },
+    { "step": "Vehicle design & software", "overlay": "Tesla software-first stack" },
+    { "step": "Assembly (smart factory)", "overlay": "HMGICS robotics & digital twin" },
+    { "step": "Distribution & sales (direct/online)", "overlay": "Tesla & BYD direct-to-consumer" },
+    { "step": "Charging & energy services", "overlay": "Supercharger, V2G" },
+    { "step": "Connected services, OTA & data", "overlay": "MBUX, fleet data" },
+    { "step": "Recycling & second life", "overlay": "BaaS & grid storage" }
+  ],
+  "valueCurve": {
+    "dimensions": ["Price", "Range", "Charging speed", "Software/OTA", "Digital sales", "Luxury/comfort", "Mfg innovation", "Sustainability"],
+    "series": [
+      { "id": "byd", "scores": [9, 7, 7, 6, 8, 6, 8, 8] },
+      { "id": "tesla", "scores": [6, 9, 9, 10, 10, 7, 9, 8] },
+      { "id": "mercedes", "scores": [3, 8, 7, 6, 5, 10, 6, 7] },
+      { "id": "hmgics", "scores": [7, 7, 7, 7, 6, 7, 10, 8] },
+      { "id": "ice", "scores": [8, 5, 3, 2, 3, 6, 4, 3] }
+    ]
+  },
+  "iceBaseline": { "id": "ice", "name": "Legacy ICE", "color": "#94A3B8" },
+  "networkNodes": [
+    { "id": "customer", "label": "EV Customer", "x": 50, "y": 50, "hub": true, "benefit": "Lower cost, connected experience, continuous value", "rank": 1 },
+    { "id": "oem", "label": "OEMs", "x": 50, "y": 14, "benefit": "Direct relationship & recurring software revenue", "rank": 2 },
+    { "id": "battery", "label": "Battery Makers", "x": 82, "y": 28, "benefit": "Scale demand, second-life revenue", "rank": 5 },
+    { "id": "charging", "label": "Charging Networks", "x": 88, "y": 62, "benefit": "Utilization data, plug-and-charge revenue", "rank": 3 },
+    { "id": "energy", "label": "Energy Utilities", "x": 70, "y": 86, "benefit": "V2G grid balancing & demand response", "rank": 4 },
+    { "id": "software", "label": "Software / Cloud", "x": 30, "y": 86, "benefit": "Platform fees & data services", "rank": 6 },
+    { "id": "fleet", "label": "Fleet & Ride-hail", "x": 12, "y": 62, "benefit": "Shared utilization, mobility-as-a-service", "rank": 7 },
+    { "id": "regulators", "label": "Regulators", "x": 18, "y": 28, "benefit": "Emissions compliance & incentives", "rank": 8 },
+    { "id": "recyclers", "label": "Recyclers", "x": 50, "y": 92, "benefit": "Material recovery & circularity", "rank": 9 }
+  ],
+  "networkEdges": [
+    ["oem", "customer"], ["battery", "customer"], ["charging", "customer"],
+    ["energy", "customer"], ["software", "customer"], ["fleet", "customer"],
+    ["regulators", "customer"], ["recyclers", "customer"], ["battery", "oem"],
+    ["energy", "charging"], ["software", "oem"]
+  ],
+  "q3Changes": [
+    {
+      "n": "01",
+      "title": "Direct-to-Consumer Online Ordering",
+      "from": "Dealer-centric franchise sales",
+      "to": "Agency model: online orders, dealers become delivery & service agents",
+      "rationale": "Shift in stakeholder relationship — OEM owns the customer, controls pricing and data."
+    },
+    {
+      "n": "02",
+      "title": "Software-Defined Vehicle Subscriptions",
+      "from": "One-time hardware sale",
+      "to": "OTA features, FSD / driver-assist and comfort packages as recurring revenue",
+      "rationale": "Revenue-model shift from transactional to recurring, high-margin software income."
+    },
+    {
+      "n": "03",
+      "title": "Battery-as-a-Service",
+      "from": "Owning the battery outright",
+      "to": "Pay-per-use or swap, with second-life energy storage",
+      "rationale": "Consumption shift lowers upfront cost and unlocks circular battery value."
+    },
+    {
+      "n": "04",
+      "title": "Vehicle-to-Grid (V2G) Energy Ecosystem",
+      "from": "Car as pure cost center",
+      "to": "Car earns money for the owner by trading energy with utilities",
+      "rationale": "New value network with utilities — vehicle becomes a distributed grid asset."
+    },
+    {
+      "n": "05",
+      "title": "Mass-Customization via Smart Factories",
+      "from": "Mass-produced fixed configurations",
+      "to": "Digital twins, build-to-order & local micro-factories (HMGICS)",
+      "rationale": "Customer-preference shift to personalized, locally-produced vehicles."
+    }
+  ],
+  "maturity": {
+    "dimensions": ["Digital sales", "Software/OTA", "Data/Connected", "Smart mfg", "Ecosystem"],
+    "rows": [
+      {
+        "id": "tesla",
+        "ratings": ["High", "High", "High", "High", "High"],
+        "overall": "High",
+        "reasons": ["Direct online orders, 100% own delivery", "Industry-leading OTA & FSD", "Largest fleet data moat", "Gigafactory automation", "Supercharger ecosystem"]
+      },
+      {
+        "id": "byd",
+        "ratings": ["High", "Medium", "Medium", "High", "High"],
+        "overall": "High",
+        "reasons": ["Direct & online sales at scale", "OTA improving, software maturing", "Growing connected services", "Vertically integrated Blade battery mfg", "Own charging & storage ecosystem"]
+      },
+      {
+        "id": "hmgics",
+        "ratings": ["Medium", "Medium", "Medium", "High", "Medium"],
+        "overall": "Medium",
+        "reasons": ["Production hub, customer-facing e-biz medium", "Ioniq OTA developing", "Connected Ioniq services", "World-class robotics & digital twin", "Charging partnerships, building ecosystem"]
+      },
+      {
+        "id": "mercedes",
+        "ratings": ["Medium", "Medium", "Medium", "Medium", "Medium"],
+        "overall": "Medium",
+        "reasons": ["Dealer-bound, slower direct sales (Low)", "MBUX OTA, still catching up", "Connected EQS services", "Flexible but less automated", "EQS charging via partners"]
+      }
+    ]
+  },
+  "verdicts": [
+    {
+      "type": "Leaders",
+      "tone": "high",
+      "items": [
+        { "id": "tesla", "text": "Tesla leads e-business & software — direct sales, OTA, FSD and Supercharger network define the digital-native model." },
+        { "id": "byd", "text": "BYD leads vertical integration & scale — Blade battery, in-house supply chain and volume dominance." }
+      ]
+    },
+    {
+      "type": "Strong Challenger",
+      "tone": "medium",
+      "items": [
+        { "id": "hmgics", "text": "HMGICS leads manufacturing innovation (robotics, AI, digital twin) but is medium on customer-facing e-business as a production hub." }
+      ]
+    },
+    {
+      "type": "Risk of Disruption",
+      "tone": "low",
+      "items": [
+        { "id": "mercedes", "text": "Mercedes EQS has a strong brand and medium readiness but a legacy-minded, dealer-bound model with slower OTA and direct-sales — at risk in software & direct channels." }
+      ]
+    }
+  ],
+  "scorecard": [
+    { "q": "Q1", "label": "External Analysis", "points": 5 },
+    { "q": "Q2", "label": "Value Mapping", "points": 5 },
+    { "q": "Q3", "label": "e-Business Model Transformation", "points": 5 },
+    { "q": "Q4", "label": "Company Categorization", "points": 5 }
+  ],
+  "takeaways": [
+    "ICT turns cars into connected, software-defined platforms with recurring revenue.",
+    "Value shifts from one-time sales to services, data and energy ecosystems.",
+    "Vertical integration (BYD) and software leadership (Tesla) are the twin paths to lead.",
+    "Legacy OEMs must digitize sales & OTA fast or risk disruption."
+  ],
+  "teamDefault": [
+    { "member": "Swetha", "company": "byd" },
+    { "member": "Saio Chitra", "company": "tesla" },
+    { "member": "Dhruvi Patel", "company": "mercedes" },
+    { "member": "Angi", "company": "hmgics" }
+  ],
+  "speakerNotes": {
+    "3": "Open with the sales-channel disruption — Tesla proved direct online ordering works at scale. Emphasize that ICT doesn't just digitize the old process; it removes a whole layer (dealers) and shifts who owns the customer relationship. Tie each point back to e-business transformation.",
+    "4": "Frame these two as 'industry structure' not macro. Walk the radar: new entrants and rivalry spike up, supplier power drops thanks to vertical integration. Cite BYD Blade Battery and HMGICS smart factory as concrete evidence.",
+    "5": "Trace one company along the chain — BYD owns most of it, Tesla owns software & sales, HMGICS owns assembly. The overlays show who controls which stage; the more stages you own, the more digital value you capture.",
+    "6": "The value curve shows Tesla peaks on software & digital sales, Mercedes on luxury, BYD on price & sustainability. The network diagram is the screenshot moment — all flows converge on the EV customer, with benefit ranking showing OEMs and charging networks gain most.",
+    "7": "These five imagineered changes are the heart of Q3. For each, state the 'from → to' shift clearly and the stakeholder it affects. V2G and BaaS are the most radical — the car becomes a revenue source, not just a cost.",
+    "8": "Read the heat-map left to right per company. Tesla is all green, BYD mostly green with two ambers, HMGICS strong only on smart mfg, Mercedes amber across with a direct-sales weakness. Overall: Tesla & BYD High, HMGICS & Mercedes Medium.",
+    "9": "Deliver the verdict crisply: Tesla & BYD are the leaders for different reasons, HMGICS is a strong manufacturing challenger, Mercedes carries disruption risk in software and direct sales. Always cite the reason."
+  }
+}
